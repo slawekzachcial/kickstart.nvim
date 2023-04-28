@@ -1,0 +1,38 @@
+================================================================================
+MY KEY BINDING                                                       *mykeys*
+
+<leader>? - [?] Find recently opened files
+<leader><space> - [ ] Find existing buffers
+<leader>/ - [/] Fuzzily search in current buffer
+
+<leader>sf - [S]earch [F]iles
+<leader>sh - [S]earch [H]elp
+<leader>sw - [S]earch current [W]ord
+<leader>sg - [S]earch by [G]rep
+<leader>sd - [S]earch [D]iagnostics
+
+[d - Go to previous diagnostic message
+]d - Go to next diagnostic message
+<leader>e - Open floating diagnostic message
+<leader>q - Open diagnostics list
+
+<leader>rn - [R]e[n]ame
+<leader>ca - [C]ode [A]ction
+
+gd - [G]oto [D]efinition
+gr - [G]oto [R]eferences
+gI - [G]oto [I]mplementation
+gD - [G]oto [D]eclaration
+
+<leader>D - Type [D]efinition
+<leader>ds - [D]ocument [S]ymbols
+<leader>ws - [W]orkspace [S]ymbols
+
+K - Hover Documentation
+<C-k> - Signature Documentation
+
+<leader>wa - [W]orkspace [A]dd Folder
+<leader>wr - [W]orkspace [R]emove Folder
+<leader>wl - [W]orkspace [L]ist Folders
+
+ vim:tw=78:ts=8:ft=help:norl:

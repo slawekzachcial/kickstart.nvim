@@ -11,6 +11,9 @@ MY KEY BINDING                                                       *mykeys*
 <leader>sg - [S]earch by [G]rep
 <leader>sd - [S]earch [D]iagnostics
 
+<leader>th - [T]oggle search [h]ighlight
+<leader>ts - [T]oggle [s]pelling
+
 [d - Go to previous diagnostic message
 ]d - Go to next diagnostic message
 <leader>e - Open floating diagnostic message

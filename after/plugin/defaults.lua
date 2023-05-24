@@ -12,6 +12,7 @@ vim.keymap.set('n', '<C-b>', ':edit #<cr>', { desc = 'Switch to previous buffer'
 -- Toggle things
 vim.keymap.set('n', '<leader>th', ':set hlsearch!<cr>', { desc = '[T]oggle search [h]ighlight' })
 vim.keymap.set('n', '<leader>ts', ':set spell!<cr>', { desc = '[T]oggle [s]pelling' })
+vim.keymap.set('n', '<leader>tw', ':set wrap!<cr>', { desc = '[T]oggle [w]rap' })
 
 -- Terraform - format on save
 require'lspconfig'.terraformls.setup{

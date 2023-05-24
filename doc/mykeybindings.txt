@@ -13,6 +13,7 @@ MY KEY BINDING                                                       *mykeys*
 
 <leader>th - [T]oggle search [h]ighlight
 <leader>ts - [T]oggle [s]pelling
+<leader>tw - [T]oggle [w]rap
 
 [d - Go to previous diagnostic message
 ]d - Go to next diagnostic message
